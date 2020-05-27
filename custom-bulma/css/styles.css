@@ -2804,6 +2804,7 @@ a.tag:hover {
 
 .title {
   color: #363636;
+  font-family: "DM Serif Display", serif;
   font-size: 2rem;
   font-weight: 600;
   line-height: 1.125; }
@@ -7124,3 +7125,6 @@ p {
 
 #portfolio {
   background-color: #EAF4C6; }
+
+.has-margin-bottom {
+  margin-bottom: 20px; }

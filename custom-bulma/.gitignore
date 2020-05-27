@@ -1,1 +1,4 @@
-/node_modules
+.gitignore
+
+# dependencies for custom bulma theme(s)
+node_modules
